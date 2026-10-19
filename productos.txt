@@ -1,7 +1,2 @@
-PRODUCTOS - TIENDA DON PEDRO
-
-Leche 1L - $4.200
-Pan tajado - $6.500
-Huevos x12 - $14.000
-Café 500g - $18.000
-Panela - $3.500
+´pan - .000´
+´leche - .200´
